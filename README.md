@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ali-tufe-0b271a33b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://ali-tufe.github.io" title="Website"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://ali-tufe.github.io" title="Website"><img width="22" src="images/hackerrank.png"> Website</a></code>
 </h5>
 <br>
 <p>
